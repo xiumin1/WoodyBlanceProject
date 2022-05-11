@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: wbMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Area
+    m_Weight: 1
+  - m_Path: Area.001
+    m_Weight: 1
+  - m_Path: Area.002
+    m_Weight: 1
+  - m_Path: Area.003
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/body_full
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.011
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.011/upper_leg_right
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.011/upper_leg_right/lower_leg_right
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.011/upper_leg_right/lower_leg_right/foot_right
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.011/upper_leg_right/lower_leg_right/foot_right/foot_right_end
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.012
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.012/upper_leg_left
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.012/upper_leg_left/lower_leg_left
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.012/upper_leg_left/lower_leg_left/foot_left
+    m_Weight: 1
+  - m_Path: Armature/body_full/Bone.012/upper_leg_left/lower_leg_left/foot_left/foot_left_end
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.003
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.003/upper_arm_right
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.003/upper_arm_right/lower_arm_right
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.003/upper_arm_right/lower_arm_right/hand_right
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.003/upper_arm_right/lower_arm_right/hand_right/hand_right_end
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.004
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.004/upper_arm_left
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.004/upper_arm_left/lower_arm_left
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.004/upper_arm_left/lower_arm_left/hand_left
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/Bone.004/upper_arm_left/lower_arm_left/hand_left/hand_left_end
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/head
+    m_Weight: 1
+  - m_Path: Armature/body_full/upper_body/head/head_end
+    m_Weight: 1
+  - m_Path: body
+    m_Weight: 1
+  - m_Path: Camera
+    m_Weight: 1
+  - m_Path: Camera.001
+    m_Weight: 1
+  - m_Path: Camera.002
+    m_Weight: 1
+  - m_Path: Camera.003
+    m_Weight: 1
+  - m_Path: Cylinder
+    m_Weight: 1
+  - m_Path: Plane
+    m_Weight: 1
