@@ -29,7 +29,7 @@ public class WoodyAgent_s17 : Agent
 
     float observe_index = 1f;
 
-    float action_index = 9f; // from action_index=3
+    float action_index = 7f; // from action_index=3
 
 
     // string log = ""; // use to hold the log information for check in standalone exe
